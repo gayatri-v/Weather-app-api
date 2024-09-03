@@ -68,7 +68,7 @@ const Weather = () => {
      
     <div className="weather-container">
   <div className="tagline">
-    <h1>Your Weather, Your City</h1>
+    <h1> Your City,Your Weather </h1>
   </div>
 
   <div className="weather">
